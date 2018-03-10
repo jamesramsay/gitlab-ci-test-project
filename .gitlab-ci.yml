@@ -2,4 +2,4 @@ test:
   stage: test
   
   script:
-    - echo "Success 👍"
+    - echo "GitLab CI/CD is the best 🏆🎉"
