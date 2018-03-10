@@ -3,3 +3,4 @@ test:
   
   script:
     - echo "GitLab CI/CD is the best 🏆🎉"
+    - exit 1
